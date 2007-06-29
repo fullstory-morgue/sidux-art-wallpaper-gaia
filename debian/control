@@ -1,0 +1,13 @@
+Source: sidux-art-wallpaper-gaia
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-art-wallpaper-gaia
+Architecture: all
+Description: default sidux wallpaper 
+ the default wallpaper for the current 
+ sidux release
