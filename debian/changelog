@@ -1,8 +1,12 @@
 sidux-art-wallpaper-gaia (0.0.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 30 Jun 2007 13:19:28 +0200
+  [ Bernard Gray ]
+  * update debian/control comment to be release specific 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 05 Jul 2007 14:40:40 +1000
 
 sidux-art-wallpaper-gaia (0.0.1) unstable; urgency=low
 
