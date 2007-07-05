@@ -1,9 +1,5 @@
-sidux-art-wallpaper-gaia (0.0.2) UNRELEASED; urgency=low
+sidux-art-wallpaper-gaia (0.0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update debian/control comment to be release specific 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 05 Jul 2007 14:40:40 +1000
