@@ -1,8 +1,12 @@
 sidux-art-wallpaper-gaia (0.0.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 05 Jul 2007 14:09:19 +0200
+  [ Bernard Gray ]
+  * clean up wide wallpaper source 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Jul 2007 09:14:25 +1000
 
 sidux-art-wallpaper-gaia (0.0.2) unstable; urgency=low
 
