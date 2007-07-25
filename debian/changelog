@@ -1,8 +1,12 @@
 sidux-art-wallpaper-gaia (0.0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Jul 2007 03:00:03 +0200
+  [ Bernard Gray ]
+  * reduce wide res to 1280x800 (from 1920x1200) 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Jul 2007 11:26:50 +1000
 
 sidux-art-wallpaper-gaia (0.0.3) unstable; urgency=low
 
