@@ -1,9 +1,5 @@
-sidux-art-wallpaper-gaia (0.0.3) UNRELEASED; urgency=low
+sidux-art-wallpaper-gaia (0.0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * clean up wide wallpaper source
   * update wide png after source change 
 
