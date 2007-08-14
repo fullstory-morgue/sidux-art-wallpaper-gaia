@@ -1,9 +1,5 @@
-sidux-art-wallpaper-gaia (0.0.4) UNRELEASED; urgency=low
+sidux-art-wallpaper-gaia (0.0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * reduce wide res to 1280x800 (from 1920x1200)
   * bump res again, in sync with the kdm and ksplash increases
   * 1600x1200 for normal aspect ratio
