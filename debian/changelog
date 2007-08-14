@@ -4,9 +4,12 @@ sidux-art-wallpaper-gaia (0.0.4) UNRELEASED; urgency=low
   * NOT RELEASED YET
 
   [ Bernard Gray ]
-  * reduce wide res to 1280x800 (from 1920x1200) 
+  * reduce wide res to 1280x800 (from 1920x1200)
+  * bump res again, in sync with the kdm and ksplash increases
+  * 1600x1200 for normal aspect ratio
+  * 1920x1200 for wide aspect ratio
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Jul 2007 11:26:50 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 14 Aug 2007 12:34:28 +1000
 
 sidux-art-wallpaper-gaia (0.0.3) unstable; urgency=low
 
