@@ -1,3 +1,9 @@
+sidux-art-wallpaper-gaia (0.0.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 24 Aug 2007 14:25:08 +0200
+
 sidux-art-wallpaper-gaia (0.0.5) unstable; urgency=low
 
   * remove transparent stripe on edge of 1600x1200 (thanks to cheko)
