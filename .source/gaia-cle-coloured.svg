@@ -788,13 +788,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#ffffff"
-     borderopacity="0.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
      inkscape:zoom="0.64666667"
      inkscape:cx="800"
-     inkscape:cy="601.08247"
+     inkscape:cy="530.42105"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      inkscape:window-width="1400"
@@ -856,7 +856,7 @@
     <g
        style="display:inline"
        id="g5741"
-       transform="matrix(1.0046218,0,0,1.0039892,0.6327335,-4.2417483)"
+       transform="matrix(1.0104029,0,0,1.0097666,-1.518098,-7.2817231)"
        inkscape:export-filename="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-wallpaper/trunk/sidux.png"
        inkscape:export-xdpi="78.739998"
        inkscape:export-ydpi="78.739998">
