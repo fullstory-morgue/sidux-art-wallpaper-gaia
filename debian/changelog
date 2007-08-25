@@ -1,9 +1,5 @@
-sidux-art-wallpaper-gaia (0.0.6) UNRELEASED; urgency=low
+sidux-art-wallpaper-gaia (0.0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * remove transparent stripe on edge of 1920x1200
   * fix page border display issue on 1600x1200 svg source 
 
