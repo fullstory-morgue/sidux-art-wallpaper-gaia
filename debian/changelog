@@ -1,3 +1,9 @@
+sidux-art-wallpaper-gaia (0.9) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:40:21 +0100
+
 sidux-art-wallpaper-gaia (0.8) unstable; urgency=low
 
   * make lintian happy and depend on ${misc:Depends}.
