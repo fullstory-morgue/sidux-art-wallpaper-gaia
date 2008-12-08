@@ -10,6 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-gaia/trunk
 
 Package: sidux-art-wallpaper-gaia
 Architecture: all
+Depends: ${misc:Depends}
 Provides: sidux-art-wallpaper-theme
 Description: sidux wallpaper for 2007-03 release 
  the default wallpaper for the 2007-03 (Gaia)
