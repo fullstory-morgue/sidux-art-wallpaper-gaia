@@ -1,8 +1,12 @@
-sidux-art-wallpaper-gaia (0.9) UNRELEASED; urgency=low
+sidux-art-wallpaper-gaia (0.9) unstable; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:40:21 +0100
+  [ Michiel de Boer ]
+  * Moved postinst here from sidux-art-kde-gaia
+
+ -- Michiel de Boer <locsmif@sidux.com>  Tue, 07 Apr 2009 05:40:47 +0200
 
 sidux-art-wallpaper-gaia (0.8) unstable; urgency=low
 
